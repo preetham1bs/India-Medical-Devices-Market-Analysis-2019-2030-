@@ -11,7 +11,7 @@
 
 ## Project Preview
 
-![Market Brief Preview](https://github.com/preetham1bs/India-Medical-Devices-Market-Analysis-2019-2030-/blob/ef01a286eb5f571e22ed7212e54fa252f15351d3/outputs/Screenshot%20(18).png)
+![Market Brief Preview](outputs/market_brief_preview.png)
 
 ---
 
