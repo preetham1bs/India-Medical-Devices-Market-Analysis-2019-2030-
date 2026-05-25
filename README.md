@@ -11,7 +11,7 @@
 
 ## Project Preview
 
-![Market Brief Preview](outputs/market_brief_preview.png)
+![Market Brief Preview](https://github.com/preetham1bs/India-Medical-Devices-Market-Analysis-2019-2030-/blob/ef01a286eb5f571e22ed7212e54fa252f15351d3/outputs/Screenshot%20(18).png)
 
 ---
 
@@ -217,7 +217,7 @@ Three publication-quality charts generated in Python (matplotlib) for the PDF ma
 
 A 1-page PDF brief was produced as the primary executive deliverable — formatted in the style of published market research reports from Clarivate, IQVIA, and healthcare strategy consulting briefs.
 
-**📄 [Download PDF Market Brief](outputs/Market_Brief_India_MedTech_2025.pdf)**
+**📄 [Download PDF Market Brief](Market_Brief_India_MedTech_2025.pdf)**
 
 **Brief structure:**
 - Header with key KPI callouts
